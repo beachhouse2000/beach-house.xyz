@@ -10,3 +10,5 @@ This website is *TRASH* I'm telling you! ***TRASH***
 2. Poos
 
 3. Even more trash
+
+Here's a link to the best youtuber ever: https://www.youtube.com/channel/UCqxTD8hLFcRXtePnW8n6uuw
