@@ -2,3 +2,11 @@
 A smelly website full of smelly things, such as, trash, garbage, and other trashy things.
 
 This website is *TRASH* I'm telling you! ***TRASH***
+
+## This is a list of the smelliest things
+
+1. Trash
+
+2. Poos
+
+3. Even more trash
