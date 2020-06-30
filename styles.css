@@ -1,4 +1,4 @@
-  body {
+body {
       font-family: sans-serif;
       text-align: center;
     }
@@ -43,41 +43,4 @@
     .thisisthegallery {
       color:#848484;
     }
-    .artgallery {
-      background-color:#A9F5E1;
-      border-radius:100px;
-      padding:20px;
-      color:#848484;
-    }
-    
-    .thisisthegallery {
-      color:#848484;
-    }
-    
-    .artbutton {
-      width: 150px;
-    }
-    
-    .header {
-      font-family:sans-serif;
-      color:brown;
-      background-color:#BDBDBD;
-      padding:20px;
-      border-radius:10px;
-      text-align:center;
-    }
-    
-    .header {
-      font-family:sans-serif;
-      text-align:center;
-      background-color:#A9F5E1;
-      border-radius:100px;
-      padding:20px;
-      color:#848484;
-    }
-    
-    .subheader {
-      font-family:sans-serif;
-      text-align:center;
-      color:#848484;
     }
