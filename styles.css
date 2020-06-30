@@ -1,0 +1,64 @@
+  
+    .headline {
+      font-family:sans-serif;
+      color:#086A87;
+      background-color:#F5ECCE;
+      padding:16px;
+      text-align:center;
+    }
+    
+    .subline {
+      font-family:sans-serif;
+      color:#0489B1;
+      background-color:#F3E2A9;
+      padding:16px;
+      text-align:center;
+    }
+    
+    .paragraph1 {
+      font-family:sans-serif;
+      color:#01A9DB;
+      background-color:#F5DA81;
+      padding:16px;
+      text-align:center;
+    }
+    
+    .homebutton {
+      width: 150px;
+    }
+    
+    .videosbutton {
+      width: 150px;
+    }
+    
+    .foodsbutton {
+      width: 150px;
+    }
+    
+    .artbutton {
+      width: 150px;
+    }
+    
+    .header {
+      font-family:sans-serif;
+      color:brown;
+      background-color:#BDBDBD;
+      padding:20px;
+      border-radius:10px;
+      text-align:center;
+    }
+    
+    .header {
+      font-family:sans-serif;
+      text-align:center;
+      background-color:#A9F5E1;
+      border-radius:100px;
+      padding:20px;
+      color:#848484;
+    }
+    
+    .subheader {
+      font-family:sans-serif;
+      text-align:center;
+      color:#848484;
+    }
