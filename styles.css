@@ -1,38 +1,48 @@
   
-    .headline {
-      font-family:sans-serif;
+     body {
+      font-family: sans-serif;
+      text-align: center;
+    }
+
+    .welcome {
       color:#086A87;
       background-color:#F5ECCE;
       padding:16px;
-      text-align:center;
     }
     
-    .subline {
-      font-family:sans-serif;
+    .thisisthehub {
       color:#0489B1;
       background-color:#F3E2A9;
       padding:16px;
-      text-align:center;
     }
     
-    .paragraph1 {
-      font-family:sans-serif;
+    .whatwehave {
       color:#01A9DB;
       background-color:#F5DA81;
       padding:16px;
-      text-align:center;
+    }
+
+    .buttons img {
+      width: 150px
+     }
+    
+    
+    .dadslist {
+      color:brown;
+      background-color:#BDBDBD;
+      padding:20px;
+      border-radius:10px;
     }
     
-    .homebutton {
-      width: 150px;
+    .artgallery {
+      background-color:#A9F5E1;
+      border-radius:100px;
+      padding:20px;
+      color:#848484;
     }
     
-    .videosbutton {
-      width: 150px;
-    }
-    
-    .foodsbutton {
-      width: 150px;
+    .thisisthegallery {
+      color:#848484;
     }
     
     .artbutton {
