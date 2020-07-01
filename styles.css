@@ -43,4 +43,16 @@ body {
     .thisisthegallery {
       color:#848484;
     }
+
+    .pictureoffoods {
+      width:275px
+    }
+
+    ol {
+      list-style-position: inside;
+    }
+    
+    li {
+      font-family:sans-serif;
+      font-weight:bold;
     }
