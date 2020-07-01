@@ -48,11 +48,11 @@ body {
       width:275px
     }
 
-    ol {
+    .beefyfoods {
       list-style-position: inside;
     }
     
-    li {
+    .roast {
       font-family:sans-serif;
       font-weight:bold;
     }
